@@ -348,6 +348,7 @@ a:hover {
     position: absolute;
     bottom: 0%;
     left: 50%;
+    margin-left: -40px;
     z-index: 99;
     cursor: pointer;
 }
